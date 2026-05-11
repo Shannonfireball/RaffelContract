@@ -1,4 +1,4 @@
-# Random Raffel Contract
+# Random Raffle Contract
 
 ## About
 
@@ -15,4 +15,11 @@ The code that you are going to use is for creating a lottery using a smart contr
    2. Chainlink automation.. for Time Based Triggers
 
 
+## Tests
+
+1. Create deploy scripts
+2. Tests
+   1. Run on local chain
+   2. Run forked testnet chain
+   3. Run forked mainnet chain
  
